@@ -13,6 +13,7 @@ V         V         V
 ```
 
 # Autorganiza (CPU & GPU)
+_Actuallización 30/07/2025 : Añadido versión GUI (TK) con mejoras en usabilidad y elección de modelos IA de identificación de imágenes + json de ejemplo con la definición de carpetas e imágenes._
 
 **[English version below]**
 
@@ -79,6 +80,7 @@ El script te permite elegir al inicio entre tres potentes modelos de IA.
 ### English Version
 
 **Autorganiza** is a powerful Python script that leverages Artificial Intelligence to automatically analyze and sort your images into thematic folders based on their actual content.
+_Update 07/30/2025: Added GUI (TK) version with improvements in usability and selection of AI models for image identification, plus a sample JSON with the definition of folders and images._
 
 #### Installation
 
